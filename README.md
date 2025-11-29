@@ -1,71 +1,101 @@
-<!-- Banner / Header -->
-<h1 align="center">Hi, I'm <b>Anastasios Biztas</b> 👋</h1>
-<h3 align="center">IT Technician • Web Developer • Discord Bot Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&width=600&lines=IT+Technician+%7C+Web+Developer+%7C+Discord+Bot+Developer;Always+learning+new+tools+and+technologies;Building+clean%2C+efficient+and+useful+solutions" />
-</p>
+# 👋 Hello, I'm <strong>Anastasios Biztas</strong>  
+### IT Technician • Web Developer • Discord Bot Developer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&duration=2800&pause=900&color=1E90FF&center=true&vCenter=true&width=700&lines=IT+Technician+with+Real+World+Experience;Web+Developer+Focused+on+Clean+and+Modern+Designs;Discord+Bot+Developer+Building+Smart+Automations;Always+Improving+%7C+Always+Building">
 
-## 🚀 About Me
-I'm an IT Technician with strong experience in troubleshooting, diagnostics, and system support — but also a passionate developer who builds websites, automation tools, and Discord bots.
-
-- 🖥️ Experienced in hardware/software diagnostics  
-- 🌐 Building responsive and modern web projects  
-- 🤖 Creating automation & utility-based Discord bots  
-- ⚡ Always improving and learning new technologies  
+</div>
 
 ---
 
-## 🛠️ Tech & Tools
+## 🔍 About Me
+I'm a versatile IT professional with hands-on experience in both technical support and software development.  
+My background spans hardware diagnostics, system troubleshooting, and building efficient digital solutions — including web applications and automation bots.
 
-### **Languages**
+I take pride in:
+- Delivering clean, maintainable, and scalable code  
+- Solving real technical problems with practical solutions  
+- Continuously learning new tools, frameworks, and best practices  
+- Balancing technical precision with creativity  
+
+---
+
+## 🛠️ Technical Skillset
+
+### **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" height="45" />
 </p>
 
-### **Frameworks / Tools**
+### **Frameworks, Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,discord,bash,git,github,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=nodejs,discord,git,github,linux,windows,bash,vscode" height="45" />
 </p>
 
 ---
 
-## 📌 Projects & Interests
-- Discord bot development (moderation, tools, automation)
-- Web applications (front-end & small full-stack)
-- Scripts & utilities for everyday workflows
-- Expanding my GitHub portfolio with new projects
+## ⚙️ Core Competencies
+
+### **IT Technician**
+- Hardware & software diagnostics  
+- Network configuration & troubleshooting  
+- Operating system support (Windows & Linux)  
+- System optimization & maintenance  
+
+### **Web Development**
+- Responsive, modern website development  
+- UI/UX fundamentals  
+- Clean, semantic code  
+- Small-scale full-stack applications  
+
+### **Discord Automation**
+- Moderation systems  
+- Utility & productivity bots  
+- API integrations  
+- Custom automation logic  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus
+- Building advanced Discord automation systems  
+- Developing refined web interfaces  
+- Expanding my GitHub portfolio with structured, professional projects  
+- Strengthening backend and scripting capabilities  
+
+---
+
+## 🌐 Connect with Me
 
 <p>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge"></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-1E90FF?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 🧩 Fun Fact
-I love building things that *actually help people* — whether it’s fixing a computer issue or writing a bot that automates an entire workflow.
+<div align="center">
+  
+### ⭐ Thanks for visiting my profile!  
+If you enjoy my work, feel free to star my repositories or connect with me.
 
----
-
-### ⭐ If you like this profile, feel free to star some repos or connect!
-
+</div>
