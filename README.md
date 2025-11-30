@@ -28,10 +28,10 @@ My core strengths lie in strategic IT support, robust web development, and scala
 <div align="center">
 
 ### **FullStack Development**
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss,sql" height="50" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss,mysql" height="50" />
 
 ### **Discord Bot Development**
-<img src="https://skillicons.dev/icons?i=discordjs,discordpy,prostgres" height="50" />
+<img src="https://skillicons.dev/icons?i=discordjs,discordpy,postgres" height="50" />
 
 ### **Systems, Platforms & DevOps**
 <img src="https://skillicons.dev/icons?i=git,github,linux,windows,bash,vscode,cloudflare" height="50" />
