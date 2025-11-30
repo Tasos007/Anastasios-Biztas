@@ -1,104 +1,94 @@
+<!-- PREMIUM · EXECUTIVE-LEVEL · PROFESSIONAL README -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6A5ACD&height=220&section=header&text=Anastasios%20Biztas&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%" />
 
-### **IT Solutions Architect · Web Application Developer · Discord Systems Engineer**
+# 👋 Hi, I'm <strong>Anastasios Biztas</strong>  
+### IT Technician · Web Developer · Automation Engineer
+
+<img height="28" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=700&color=007BFF&center=true&vCenter=true&width=650&lines=Modern+Web+Development;Professional+Automation+Engineering;High-Quality+IT+Support+%26+Optimization;Always+Learning+·+Always+Improving" />
 
 <br>
 
-<img height="30" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=600&color=1E90FF&center=true&vCenter=true&width=600&lines=Modern+Engineering+with+Business+Impact;Enterprise-Grade+Automation;Elegant+User+Experiences"/>
-
-<br><br>
 </div>
 
 ---
 
-<!-- ===================== ABOUT ====================== -->
+## 🧭 About Me
+I’m an IT Technician & Developer specializing in **modern web development, automation systems, and professional technical support**.  
+My approach emphasizes **clean design, scalable architecture, and high-quality engineering**.
 
-## 🧭 Professional Profile
-I am an accomplished IT Solutions Architect and Software Developer, dedicated to delivering innovative, well-engineered technology solutions.  
-My core strengths lie in strategic IT support, robust web development, and scalable Discord automation, blending technical excellence with business value.
+I enjoy solving complex problems and transforming them into elegant solutions.
 
 ---
 
-<!-- ===================== EXPERTISE ====================== -->
-
-## 🛠 Technical Stack
+# ⚙️ **Tech Stack**
+A refined, structured view of the technologies I use professionally.
 
 <div align="center">
 
-### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" height="50" />
+### 🔹 **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" height="50" />
+</p>
 
-### **Frameworks & Development Tools**
-<img src="https://skillicons.dev/icons?i=nodejs,react,express,discordjs" height="50" />
+### 🔹 **Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react" height="50" />
+</p>
 
-### **Systems, Platforms & DevOps**
-<img src="https://skillicons.dev/icons?i=git,github,linux,windows,bash,vscode,cloudflare" height="50" />
+### 🔹 **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,bash,vscode,discord" height="50" />
+</p>
 
-</div>
-
----
-
-<!-- ===================== CORE COMPETENCIES ====================== -->
-
-## 🔧 Core Competencies
-
-### **IT Infrastructure & Operations**
-- Advanced hardware diagnostics and repairs
-- Performance optimization for enterprise systems
-- Secure network design, configuration, and support
-- System administration (Windows, Linux, multi-domain environments)
-- Implementation of cybersecurity protocols
-
-### **Web & App Development**
-- Responsive, intuitive UI/UX design aligned with modern industry standards
-- API integration and structured, maintainable backend logic solutions
-- Codebase best practices ensuring performance, clarity, and longevity
-- Minimalistic design philosophy for enhanced user engagement
-
-### **Discord Automation Engineering**
-- Design and deployment of advanced moderation and automation tools
-- Custom utility development and API orchestration
-- Modular, high-availability Discord bot frameworks
-- Uptime and reliability optimization for community and enterprise use
-
----
-
-<!-- ===================== FEATURED PROJECTS ====================== -->
-
-## ⭐ Notable Projects
-
-<div align="center">
-
-### 🚀 **Enterprise Discord Automation Platform**
-A modular, robust system designed for maximum scalability and reliability in community management.  
-**Technologies:** Node.js, Discord.js, Redis, RESTful APIs
-
----
-
-### 🌐 **Portfolio Web Application**
-A high-clarity, professional portfolio site demonstrating advanced UI/UX concepts.  
-**Technologies:** HTML, CSS, JavaScript, modern JS frameworks
-
----
-
-### ⚙️ **Automated Diagnostics Toolkit**
-Comprehensive scripts for proactive maintenance, cleaning, and system optimization.  
-**Technologies:** Python, Bash
+### 🔹 **Specializations**
+<table>
+  <tr>
+    <td><strong>⚡ System Diagnostics</strong></td>
+    <td><strong>🖥 Web Architecture</strong></td>
+    <td><strong>🤖 Discord Automation</strong></td>
+  </tr>
+  <tr>
+    <td>Hardware repair & optimization</td>
+    <td>Clean + modern frontend structure</td>
+    <td>API-driven scalable bot systems</td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ====================== -->
+# 🔧 Professional Capabilities
 
-## 📊 GitHub Analytics
+### **IT Technician**
+- Hardware diagnostics, repair, system tuning  
+- Windows & Linux administration  
+- Network configuration & troubleshooting  
+- Performance optimization & stability improvements  
+
+### **Web Development**
+- Responsive UI/UX development  
+- Modern front-end architecture  
+- Minimalistic, clean design principles  
+- API integrations & lightweight backends  
+
+### **Automation & Discord Engineering**
+- Workflow automation systems  
+- Moderation & utility features  
+- Scalable bot structure  
+- Complex API-based integrations  
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
@@ -108,24 +98,20 @@ Comprehensive scripts for proactive maintenance, cleaning, and system optimizati
 
 ---
 
-<!-- ===================== CURRENT OBJECTIVES ====================== -->
-
-## 🎯 Latest Professional Objectives
-- Developing next-generation Discord automation platforms for business and community scalability
-- Creating elegant, optimized web applications with modern design patterns
-- Advancing backend engineering and workflow process automation
-- Showcasing innovative technology solutions in a refined professional portfolio
+# 🎯 Current Goals
+- Improving and scaling automation systems  
+- Designing professional, minimalistic web interfaces  
+- Growing a polished GitHub portfolio  
+- Advancing backend & scripting capabilities  
 
 ---
 
-<!-- ===================== CONTACT ====================== -->
-
-## 🌐 Contact & Networking
+# 🌐 Contact
 
 <div align="center">
 
 <a href="mailto:YOUR_EMAIL_HERE">
-  <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-007BFF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://discord.com/users/YOUR_DISCORD_ID">
@@ -136,12 +122,10 @@ Comprehensive scripts for proactive maintenance, cleaning, and system optimizati
 
 ---
 
-<!-- ===================== FOOTER ====================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=140&section=footer"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.png" width="100%" />
 
-### ⭐ Thank you for visiting my professional profile
+### ⭐ Thanks for visiting — feel free to connect or star a project!
 
 </div>
