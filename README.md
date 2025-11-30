@@ -23,15 +23,11 @@ My core strengths lie in strategic IT support, robust web development, and scala
 
 <!-- ===================== EXPERTISE ====================== -->
 
-## 🛠 Technical Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" height="50" />
-
-### **Frameworks & Development Tools**
-<img src="https://skillicons.dev/icons?i=nodejs,react,express,discordjs" height="50" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql,nodejs,react,discordpy,discordjs,php,c" height="50" />
 
 ### **Systems, Platforms & DevOps**
 <img src="https://skillicons.dev/icons?i=git,github,linux,windows,bash,vscode,cloudflare" height="50" />
