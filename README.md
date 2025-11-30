@@ -1,63 +1,64 @@
-<div align="center">
-
-# 👋 Hello, I'm <strong>Anastasios Biztas</strong>  
-### IT Technician · Web Developer · Discord Bot Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&color=1E90FF&center=true&vCenter=true&width=650&lines=IT+Technician+with+Hands-On+Experience;Web+Developer+Focused+on+Clean+Modern+Design;Discord+Bot+Developer+Building+Smart+Automations;Always+Learning+·+Always+Improving" />
+# <div align="center">👋 Hi, I'm <strong>Anastasios Biztas</strong></div>
+<div align="center">IT Technician · Web Developer · Discord Bot Developer</div>
 
 <br>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&color=1E90FF&center=true&vCenter=true&width=650&lines=IT+Technician+with+Hands-On+Experience;Web+Developer+Focused+on+Modern+Design;Discord+Bot+Developer+Creating+Reliable+Automations;Always+Learning+·+Always+Improving" />
 </div>
 
 ---
 
-## 📁 Profile Overview
-I’m an IT Technician and Developer who focuses on clean design, reliable solutions, and practical improvements.  
-My work blends technical problem-solving with modern development, ranging from hardware diagnostics to building custom automation tools and Discord systems.
+## 🚀 About Me
+I’m an IT Technician and Developer who enjoys combining practical problem-solving with clean, modern development.  
+My experience spans hardware diagnostics, system optimization, and building efficient web and automation tools — including custom Discord systems.
+
+I focus on reliability, clarity, and continuous improvement.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" height="42" />
 </p>
 
 ### **Tools & Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,discord,git,github,linux,windows,bash,vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,discord,git,github,linux,windows,bash,vscode" height="42" />
 </p>
 
 ---
 
-## 🔧 Competencies
+## 🔧 Professional Competencies
 
 ### **IT Technician**
-- Hardware diagnostics & repair  
-- Operating system support (Windows & Linux)  
-- Network configuration  
-- System troubleshooting & optimization  
+- Hardware diagnostics, repair & optimization  
+- Windows & Linux support  
+- Network configuration & troubleshooting  
+- System maintenance & performance tuning  
 
 ### **Web Development**
-- Responsive front-end development  
-- Clean, modern UI/UX structure  
-- Light full-stack work (APIs, basic backend)  
+- Responsive UI/UX  
+- Modern front-end structure  
+- API integration & light backend development  
+- Clean, maintainable code approach  
 
 ### **Discord Bot Development**
-- Automation & utility systems  
-- Moderation features  
-- API-based functionality  
-- Stable, maintainable bot architecture  
+- Automation workflows  
+- Moderation & utility features  
+- API-driven systems  
+- Scalable bot architecture  
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
 
 <br><br>
 
@@ -67,15 +68,15 @@ My work blends technical problem-solving with modern development, ranging from h
 
 ---
 
-## 🎯 Current Focus
-- Building cleaner, more scalable Discord automation tools  
-- Developing modern, minimalistic web interfaces  
-- Expanding a professional GitHub portfolio  
-- Improving backend and scripting knowledge  
+## 🎯 What I'm Currently Working On
+- Improving scalable Discord automation systems  
+- Designing clean, minimalistic web interfaces  
+- Expanding my development portfolio  
+- Developing stronger backend & scripting proficiency  
 
 ---
 
-## 🌐 Contact
+## 🌐 Contact Me
 
 <p>
 <a href="mailto:YOUR_EMAIL_HERE">
@@ -90,7 +91,7 @@ My work blends technical problem-solving with modern development, ranging from h
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile  
-If you like my work, feel free to star a repository or connect with me.
+### ⭐ Thanks for stopping by!  
+If you enjoy my work, feel free to connect or star a repository.
 
 </div>
