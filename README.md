@@ -1,79 +1,108 @@
-<!-- PREMIUM · ULTRA-PROFESSIONAL · ANIMATED README -->
+<!-- PREMIUM · FULLY FEATURED · ULTRA-PROFESSIONAL GITHUB README -->
 
+<!-- ===================== HEADER BANNER ====================== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6A5ACD&height=220&section=header&text=Anastasios%20Biztas&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-# 👋 Hi, I'm <strong>Anastasios Biztas</strong>  
-### IT Technician · Web Developer · Discord Automation Engineer
-
-<img height="28" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=700&color=1E90FF&center=true&vCenter=true&width=550&lines=Clean+Modern+Development;Reliable+Automation+Systems;Professional+IT+Support+%26+Optimization;Always+Improving+·+Always+Building" />
+### **IT Technician · Web Developer · Discord Automation Engineer**
 
 <br>
+
+<img height="30" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2600&pause=600&color=1E90FF&center=true&vCenter=true&width=600&lines=Clean+Modern+Development;Reliable+Automation+Systems;Professional+IT+Support;Minimalistic+High-Quality+Design;Always+Learning+·+Always+Improving" />
+
+<br><br>
 
 </div>
 
 ---
 
-## 🧭 About Me
-I focus on delivering clean, reliable, and scalable technical solutions.  
-From IT support to automated workflows and user-friendly interfaces, I bridge practical problem-solving with modern development practices.
+<!-- ===================== ABOUT ====================== -->
 
-Quality, clarity, and efficiency guide every project I work on.
+## 🧭 About Me
+I’m an IT Technician and Developer focused on **clean design, reliable systems, and smart automation**.  
+My work blends hands-on IT support with modern development, stable backend logic, and scalable Discord automation.
 
 ---
+
+<!-- ===================== TECH STACK ====================== -->
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-### **🔹 Languages**
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" height="48"/>
+### **Languages**
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" height="50" />
 
-### **🔹 Frameworks & Libraries**
-<img src="https://skillicons.dev/icons?i=nodejs,express,react" height="48"/>
+### **Frameworks / Dev Tools**
+<img src="https://skillicons.dev/icons?i=nodejs,react,express,discordjs" height="50" />
 
-### **🔹 Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" height="48"/>
-
-### **🔹 Operating Systems**
-<img src="https://skillicons.dev/icons?i=linux,windows" height="48"/>
-
-### **🔹 Other**
-<img src="https://skillicons.dev/icons?i=discord,cloudflare" height="48"/>
+### **Platforms / Tools**
+<img src="https://skillicons.dev/icons?i=git,github,linux,windows,bash,vscode,cloudflare" height="50" />
 
 </div>
 
 ---
+
+<!-- ===================== SKILLS ====================== -->
 
 ## 🔧 Professional Capabilities
 
 ### **IT Technician**
 - Hardware diagnostics & repair  
 - System performance tuning  
-- Windows & Linux administration  
 - Network configuration & troubleshooting  
+- Windows & Linux administration  
+- Cybersecurity fundamentals  
 
 ### **Web Development**
-- Responsive & modern UI/UX  
-- API-based functionality  
-- Clean, scalable code structure  
-- Minimalistic style with professional polish  
+- Responsive & modern UI designs  
+- API integrations & structured backend logic  
+- Fast, clean, maintainable code  
+- Minimalistic design approach (Apple-style clarity)  
 
-### **Discord Automation & Bot Development**
-- Workflow automation systems  
-- Moderation & utility features  
-- API integrations  
-- Stable, modular bot architecture  
+### **Discord Automation**
+- Moderation + workflow automation  
+- API-driven utilities  
+- Scalable bot architecture  
+- High reliability & uptime  
 
 ---
 
-## 📊 GitHub Performance
+<!-- ===================== FEATURED PROJECTS ====================== -->
+
+## ⭐ Featured Projects
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+### 🚀 **Smart Discord Automation System**
+A scalable, modular bot framework built for performance and reliability.  
+**Tech:** Node.js, Discord.js, Redis, REST APIs
+
+---
+
+### 🌐 **Minimalistic Portfolio Web UI**
+A clean, modern interface emphasizing clarity and usability.  
+**Tech:** HTML, CSS, JS (with modern frameworks optional)
+
+---
+
+### ⚙️ **System Diagnostic Tools**
+Scripts for automation of maintenance, cleanup, and performance optimization.  
+**Tech:** Python, Bash
+
+</div>
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ====================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
@@ -83,13 +112,17 @@ Quality, clarity, and efficiency guide every project I work on.
 
 ---
 
+<!-- ===================== CURRENT GOALS ====================== -->
+
 ## 🎯 Current Goals
-- Designing next-gen Discord automation tools  
-- Creating refined, minimalistic web interfaces  
-- Expanding a professional portfolio  
-- Strengthening backend & scripting workflows  
+- Building premium-quality Discord automation tools  
+- Creating cleaner, more modern web interfaces  
+- Enhancing backend scripting and workflow automation  
+- Expanding a polished professional portfolio  
 
 ---
+
+<!-- ===================== CONTACT ====================== -->
 
 ## 🌐 Contact
 
@@ -107,11 +140,12 @@ Quality, clarity, and efficiency guide every project I work on.
 
 ---
 
+<!-- ===================== FOOTER BANNER ====================== -->
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=140&section=footer"/>
 
 ### ⭐ Thanks for visiting my profile  
-If my work interests you, feel free to connect or star a repository.
 
 </div>
