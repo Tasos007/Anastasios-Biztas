@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6A5ACD&height=220&section=header&text=Anastasios%20Biztas&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-### **IT Solutions Architect · Web Application Developer · Discord Systems Engineer**
+### **IT Technician · Web Developer · Discord Bot Developer**
 
 <br>
 
